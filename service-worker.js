@@ -33,7 +33,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
+<<<<<<< HEAD
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Sai-Vaishnavi-Rachakondas-portfolio/index.html"), {
+=======
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Portfolio/index.html"), {
+>>>>>>> 0b90749905d5f9dc717205a1f4314ca538dc9b86
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
