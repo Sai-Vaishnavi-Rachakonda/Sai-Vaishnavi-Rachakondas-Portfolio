@@ -3,44 +3,50 @@
   font-style: normal;
   font-weight: 400;
   src: local("Agustina Regular"),
-    url(/portfolio/static/media/Agustina.21f233e1.woff) format("woff");
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/Agustina.21f233e1.woff)
+      format("woff");
 }
 @font-face {
   font-family: Montserrat;
   src: local("Montserrat"),
-    url(/portfolio/static/media/Montserrat-Regular.ee653992.ttf) format("woff");
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/Montserrat-Regular.ee653992.ttf)
+      format("woff");
 }
 @font-face {
   font-family: Google Sans Bold;
   src: local("Google Sans Bold"),
-    url(/portfolio/static/media/GoogleSans-Bold.4457817a.ttf) format("woff");
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/GoogleSans-Bold.4457817a.ttf)
+      format("woff");
 }
 @font-face {
   font-family: Google Sans Bold Italic;
   src: local("Google Sans Bold Italic"),
-    url(/portfolio/static/media/GoogleSans-BoldItalic.90773b61.ttf)
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/GoogleSans-BoldItalic.90773b61.ttf)
       format("woff");
 }
 @font-face {
   font-family: Google Sans Italic;
   src: local("Google Sans Italic"),
-    url(/portfolio/static/media/GoogleSans-Italic.0ecddcde.ttf) format("woff");
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/GoogleSans-Italic.0ecddcde.ttf)
+      format("woff");
 }
 @font-face {
   font-family: Google Sans Medium;
   src: local("Google Sans Medium"),
-    url(/portfolio/static/media/GoogleSans-Medium.8d57e401.ttf) format("woff");
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/GoogleSans-Medium.8d57e401.ttf)
+      format("woff");
 }
 @font-face {
   font-family: Google Sans Medium Italic;
   src: local("Google Sans Medium Italic"),
-    url(/portfolio/static/media/GoogleSans-MediumItalic.8fd37379.ttf)
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/GoogleSans-MediumItalic.8fd37379.ttf)
       format("woff");
 }
 @font-face {
   font-family: Google Sans Regular;
   src: local("Google Sans Regular"),
-    url(/portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf) format("woff");
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf)
+      format("woff");
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace;
@@ -6563,13 +6569,16 @@ canvas {
   font-style: normal;
   font-weight: 400;
   font-display: auto;
-  src: url(/portfolio/static/media/fa-brands-400.5063b105.eot);
-  src: url(/portfolio/static/media/fa-brands-400.5063b105.eot?#iefix)
+  src: url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-brands-400.5063b105.eot);
+  src: url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-brands-400.5063b105.eot?#iefix)
       format("embedded-opentype"),
-    url(/portfolio/static/media/fa-brands-400.cccc9d29.woff2) format("woff2"),
-    url(/portfolio/static/media/fa-brands-400.c5e0f14f.woff) format("woff"),
-    url(/portfolio/static/media/fa-brands-400.06147b6c.ttf) format("truetype"),
-    url(/portfolio/static/media/fa-brands-400.0017cc6d.svg#fontawesome)
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-brands-400.cccc9d29.woff2)
+      format("woff2"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-brands-400.c5e0f14f.woff)
+      format("woff"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-brands-400.06147b6c.ttf)
+      format("truetype"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-brands-400.0017cc6d.svg#fontawesome)
       format("svg");
 }
 .fab {
@@ -6580,13 +6589,16 @@ canvas {
   font-style: normal;
   font-weight: 400;
   font-display: auto;
-  src: url(/portfolio/static/media/fa-regular-400.c1a866ec.eot);
-  src: url(/portfolio/static/media/fa-regular-400.c1a866ec.eot?#iefix)
+  src: url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-regular-400.c1a866ec.eot);
+  src: url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-regular-400.c1a866ec.eot?#iefix)
       format("embedded-opentype"),
-    url(/portfolio/static/media/fa-regular-400.f5f2566b.woff2) format("woff2"),
-    url(/portfolio/static/media/fa-regular-400.c4f508e7.woff) format("woff"),
-    url(/portfolio/static/media/fa-regular-400.65b286af.ttf) format("truetype"),
-    url(/portfolio/static/media/fa-regular-400.e647ddbb.svg#fontawesome)
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-regular-400.f5f2566b.woff2)
+      format("woff2"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-regular-400.c4f508e7.woff)
+      format("woff"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-regular-400.65b286af.ttf)
+      format("truetype"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-regular-400.e647ddbb.svg#fontawesome)
       format("svg");
 }
 .far {
@@ -6597,13 +6609,16 @@ canvas {
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url(/portfolio/static/media/fa-solid-900.8e4a6dcc.eot);
-  src: url(/portfolio/static/media/fa-solid-900.8e4a6dcc.eot?#iefix)
+  src: url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-solid-900.8e4a6dcc.eot);
+  src: url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-solid-900.8e4a6dcc.eot?#iefix)
       format("embedded-opentype"),
-    url(/portfolio/static/media/fa-solid-900.44d537ab.woff2) format("woff2"),
-    url(/portfolio/static/media/fa-solid-900.333bae20.woff) format("woff"),
-    url(/portfolio/static/media/fa-solid-900.0bff33a5.ttf) format("truetype"),
-    url(/portfolio/static/media/fa-solid-900.424c59fb.svg#fontawesome)
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-solid-900.44d537ab.woff2)
+      format("woff2"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-solid-900.333bae20.woff)
+      format("woff"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-solid-900.0bff33a5.ttf)
+      format("truetype"),
+    url(/Sai-Vaishnavi-Rachakondas-portfolio/static/media/fa-solid-900.424c59fb.svg#fontawesome)
       format("svg");
 }
 .fa,
@@ -6615,4 +6630,4 @@ canvas {
 .fas {
   font-weight: 900;
 }
-/*# sourceMappingURL=main.d82bc053.chunk.css.map */
+/*# sourceMappingURL=main.83e6072a.chunk.css.map */

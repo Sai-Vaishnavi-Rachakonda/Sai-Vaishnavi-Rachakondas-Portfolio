@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/portfolio/precache-manifest.a019522206872d9ffe872a4f5fcb97f5.js"
+  "/Sai-Vaishnavi-Rachakondas-portfolio/precache-manifest.549f794c7f2cf8f242ffcf592ff33f66.js"
 );
 
 self.addEventListener("message", (event) => {
@@ -36,7 +36,9 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(
-  workbox.precaching.getCacheKeyForURL("/portfolio/index.html"),
+  workbox.precaching.getCacheKeyForURL(
+    "/Sai-Vaishnavi-Rachakondas-portfolio/index.html"
+  ),
   {
     blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
   }

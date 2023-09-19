@@ -2479,11 +2479,18 @@
         var w =
             ("undefined" != typeof e &&
               void 0 !==
-                Object({ NODE_ENV: "production", PUBLIC_URL: "/portfolio" }) &&
-              (Object({ NODE_ENV: "production", PUBLIC_URL: "/portfolio" })
-                .REACT_APP_SC_ATTR ||
-                Object({ NODE_ENV: "production", PUBLIC_URL: "/portfolio" })
-                  .SC_ATTR)) ||
+                Object({
+                  NODE_ENV: "production",
+                  PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
+                }) &&
+              (Object({
+                NODE_ENV: "production",
+                PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
+              }).REACT_APP_SC_ATTR ||
+                Object({
+                  NODE_ENV: "production",
+                  PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
+                }).SC_ATTR)) ||
             "data-styled",
           k = "undefined" != typeof window && "HTMLElement" in window,
           _ = Boolean(
@@ -2493,41 +2500,45 @@
                   void 0 !==
                     Object({
                       NODE_ENV: "production",
-                      PUBLIC_URL: "/portfolio",
+                      PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                     }) &&
                   (void 0 !==
-                    Object({ NODE_ENV: "production", PUBLIC_URL: "/portfolio" })
-                      .REACT_APP_SC_DISABLE_SPEEDY &&
+                    Object({
+                      NODE_ENV: "production",
+                      PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
+                    }).REACT_APP_SC_DISABLE_SPEEDY &&
                   "" !==
-                    Object({ NODE_ENV: "production", PUBLIC_URL: "/portfolio" })
-                      .REACT_APP_SC_DISABLE_SPEEDY
+                    Object({
+                      NODE_ENV: "production",
+                      PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
+                    }).REACT_APP_SC_DISABLE_SPEEDY
                     ? "false" !==
                         Object({
                           NODE_ENV: "production",
-                          PUBLIC_URL: "/portfolio",
+                          PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                         }).REACT_APP_SC_DISABLE_SPEEDY &&
                       Object({
                         NODE_ENV: "production",
-                        PUBLIC_URL: "/portfolio",
+                        PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                       }).REACT_APP_SC_DISABLE_SPEEDY
                     : void 0 !==
                         Object({
                           NODE_ENV: "production",
-                          PUBLIC_URL: "/portfolio",
+                          PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                         }).SC_DISABLE_SPEEDY &&
                       "" !==
                         Object({
                           NODE_ENV: "production",
-                          PUBLIC_URL: "/portfolio",
+                          PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                         }).SC_DISABLE_SPEEDY &&
                       "false" !==
                         Object({
                           NODE_ENV: "production",
-                          PUBLIC_URL: "/portfolio",
+                          PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                         }).SC_DISABLE_SPEEDY &&
                       Object({
                         NODE_ENV: "production",
-                        PUBLIC_URL: "/portfolio",
+                        PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
                       }).SC_DISABLE_SPEEDY)
           ),
           S = {};
@@ -4289,7 +4300,10 @@
         }
         var S =
             "undefined" !== typeof e &&
-            Object({ NODE_ENV: "production", PUBLIC_URL: "/portfolio" }) &&
+            Object({
+              NODE_ENV: "production",
+              PUBLIC_URL: "/Sai-Vaishnavi-Rachakondas-portfolio",
+            }) &&
             "production",
           O = (function (e) {
             v(n, e);
@@ -38582,4 +38596,4 @@
     },
   ],
 ]);
-//# sourceMappingURL=2.7154912a.chunk.js.map
+//# sourceMappingURL=2.810cfa1f.chunk.js.map

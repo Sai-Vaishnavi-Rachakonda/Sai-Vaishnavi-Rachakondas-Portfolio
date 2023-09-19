@@ -1320,7 +1320,10 @@
                                   className: "skill-image",
                                   style: e.style,
                                   src: ""
-                                    .concat("/portfolio", "/skills/")
+                                    .concat(
+                                      "/Sai-Vaishnavi-Rachakondas-portfolio",
+                                      "/skills/"
+                                    )
                                     .concat(e.imageSrc),
                                   alt: e.skillName,
                                 })
@@ -7923,4 +7926,4 @@
   ]),
   [[102, 1, 2]],
 ]);
-//# sourceMappingURL=main.f8908f19.chunk.js.map
+//# sourceMappingURL=main.bb1639fb.chunk.js.map
