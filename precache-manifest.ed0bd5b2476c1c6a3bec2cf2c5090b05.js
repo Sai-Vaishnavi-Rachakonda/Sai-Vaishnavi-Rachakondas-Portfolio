@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6ab0a34f9ef94bda8bf20c889a29f2d",
+    "revision": "34150c5a49b98b243539d780958a20f1",
     "url": "/Sai-Vaishnavi-Rachakondas-portfolio/index.html"
   },
   {
-    "revision": "363e814c2b053256659c",
+    "revision": "9efaec4e541c00c5a06b",
     "url": "/Sai-Vaishnavi-Rachakondas-portfolio/static/css/main.83e6072a.chunk.css"
   },
   {
-    "revision": "a4701be244cdae9ac9d8",
-    "url": "/Sai-Vaishnavi-Rachakondas-portfolio/static/js/2.810cfa1f.chunk.js"
+    "revision": "5b4c91bcf19f03c78aff",
+    "url": "/Sai-Vaishnavi-Rachakondas-portfolio/static/js/2.fa68be1d.chunk.js"
   },
   {
-    "revision": "363e814c2b053256659c",
-    "url": "/Sai-Vaishnavi-Rachakondas-portfolio/static/js/main.bb1639fb.chunk.js"
+    "revision": "9efaec4e541c00c5a06b",
+    "url": "/Sai-Vaishnavi-Rachakondas-portfolio/static/js/main.3a364520.chunk.js"
   },
   {
     "revision": "98f861880123b8377fb5",
