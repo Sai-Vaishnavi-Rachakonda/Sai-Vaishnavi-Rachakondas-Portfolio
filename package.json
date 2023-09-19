@@ -2,7 +2,7 @@
   "private": true,
   "name": "saivaisnavirachakonda",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://sai-vaishnavi-rachakonda.github.io/Sai-Vaishnavi-Rachakondas-portfolio/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
