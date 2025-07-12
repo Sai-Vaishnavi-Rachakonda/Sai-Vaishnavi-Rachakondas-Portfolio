@@ -15,9 +15,7 @@ importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js"
 );
 
-importScripts(
-  "/Sai-Vaishnavi-Rachakondas-portfolio/precache-manifest.549f794c7f2cf8f242ffcf592ff33f66.js"
-);
+importScripts("/precache-manifest.72d8c1a0e82ecf37c4d322b01a61e30d.js");
 
 self.addEventListener("message", (event) => {
   if (event.data && event.data.type === "SKIP_WAITING") {
@@ -36,9 +34,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(
-  workbox.precaching.getCacheKeyForURL(
-    "/Sai-Vaishnavi-Rachakondas-portfolio/index.html"
-  ),
+  workbox.precaching.getCacheKeyForURL("/index.html"),
   {
     blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
   }

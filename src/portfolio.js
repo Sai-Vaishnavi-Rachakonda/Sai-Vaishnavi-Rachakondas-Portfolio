@@ -330,7 +330,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteer Work",
   description:
-    "I am a Software Engineer with 3+ years of experience in developing and delivering innovative solutions that make a positive impact on the world. Proven ability to design, develop, and deploy scalable and reliable applications using a variety of technologies, including HTML, CSS, JavaScript, React, Redux, ExpressJs, NodeJs, SpringBoot, NoSQL, Git, Postgres, PowerBI, Kendo, Docker, AWS, Material UI, and Ag-Grid.",
+    "I bring over 5 years of experience in Awesome Code development, with a strong focus on React, TypeScript, Redux, Node and design systems. Most recently, I am working as a Senior Frontend Engineer at FIS Global, where I led the development of scalable UI components, integrated cross-platform widgets, and improved performance across multiple internal apps used by thousands of users.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -338,14 +338,52 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: " Sr Frontend Developer",
+          company: "FIS Global",
+          company_url: "https://www.fisglobal.com/",
+          logo_path: "FIS-Logo-Green-PNG.webp",
+          duration: "Feb 2025- Now",
+          location: "Seattle, USA",
+          description: `🚀 Shipped the entire View Service Pricing module in my first week — 100% on time, even with fuzzy requirements and missing context.
+
+🧭 Built scalable UI patterns like an Action Menu and Side Drawer — made the app easier to navigate and helped new devs ramp up 40% faster.
+
+🧰 Designed a centralized component library now used in 19+ internal apps — fewer bugs, faster shipping, and happier devs (and designers).`,
+          color: "#0879bf",
+        },
+        {
+          title: "Frontend Developer-II",
+          company: "Uptycs Inc.",
+          company_url: "https://www.uptycs.com/",
+          logo_path: "Uptycs.webp",
+          duration: "May 2023 - Feb 2025",
+          location: "Boston, USA",
+          description: `🎨 Built 27+ responsive web pages using React, Redux, and Node.js — fast, reusable, and built to scale.
+
+📊 Designed interactive dashboards to monitor real-time Kubernetes activity. Used React hooks, lazy loading, and custom components to boost user engagement by 50%.
+
+📈 Created a suite of 5 dashboards tracking metrics across 1M+ containers, directly contributing to $1M+ in revenue.
+
+🧱 Led the creation of a React-based design system adopted org-wide — improved consistency, boosted user engagement by 60%, and cut bounce rate by 20%.
+
+`,
+          color: "#0879bf",
+        },
+        {
           title: "Full Stack Developer-2",
           company: "Hitachi Vantara",
           company_url: "https://www.hitachivantara.com/en-us/home.html",
           logo_path: "legato_logo.png",
           duration: "June 2019 - April 2022",
           location: "Hyderabad, Telangana",
-          description: `• Awarded Outstanding Technical Excellence for FY20. Bestowed with the HiLife service award for Taking Ownership in June FY21,
-•	Mentored and trained over 150 developers from different geographical regions in multiple frontend technologies such as HTML, CSS, JS, jQuery, React, and Redux, automated testing, software development`,
+          description: `🥇 Outstanding Technical Excellence – FY20
+Built more than just features — built trust. Recognized for technical leadership and quality.
+
+💡 HiLife “Taking Ownership” Award – FY21
+Took initiative when it mattered, shipped results when it wasn’t easy
+
+🌍 Mentored 150+ developers across time zones
+From HTML to React and Redux — helped teammates level up in frontend, testing, and real-world software development (and sometimes untangled that one CSS bug no one wanted to touch 🙃).`,
           color: "#0879bf",
         },
         {
