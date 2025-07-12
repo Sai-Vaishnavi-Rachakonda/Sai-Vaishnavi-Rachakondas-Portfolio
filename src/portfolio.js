@@ -23,7 +23,7 @@ const greeting = {
   nickname: "SAi.",
   subTitle: "Software engineer who can code up a storm and grill up a feast",
   resumeLink:
-    "https://drive.google.com/file/d/151s816JvOUnWCfFu7RQmIOULnx3_N8SR/view?usp=sharing",
+    "https://drive.google.com/file/d/1IYd3HSRFKKgYj3Y6Vt0DMvrzJEA6TpfV/view?usp=drive_link",
   portfolio_repository:
     "https://github.com/Sai-Vaishnavi-Rachakonda?tab=repositories",
   githubProfile: "https://github.com/Sai-Vaishnavi-Rachakonda",
